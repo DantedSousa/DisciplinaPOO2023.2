@@ -1,12 +1,21 @@
-# DisciplinaPOO2023.2
-## listas de Exercícios da Disciplina de POO.
-- lista 01: TODOS os Exercícios Resolvidos e 10 Propostos (sorteados aleatoriamente)
-- lista 02: TODOS os Exercícios Resolvidos e 10 (5-5) Propostos (sorteados aleatoriamente)
-- lista 03: (5-5-5) Exercícios Resolvidos(sorteados aleatoriamente)
+# Atividades de Java POO 2023.2
+* <h3>AtividadesDeJavaPOO<h3>
+<br>
+<br>
 
-  ## Equipe:
-  - Carlos Dantes
-  - André Luiz
+# <h3> _Lista 01 - TODOS os Exercícios Resolvidos e 10 Exercícios Propostos (sorteados aleatoriamente) - (André)_<h3>
+* Cap. 03 (Estrutura Sequencial) 
+<br>
+
+# <h3>_Lista 02 - TODOS os Exercícios Resolvidos  e 10 (5-5) Exercícios Propostos (sorteados aleatoriamente) - (André e Carlos)_<h3>
+* Cap. 04 (Estrutura Condicional) - (André)
+* Cap. 05 (Estrutura de Repetição) - (Carlos)
+<br>
+  
+# <h3>_Lista 03 - 15 (5-5-5) Exercícios Resolvidos (sorteados aleatoriamente) - (Carlos)_<h3>
+* Cap. 06 (Vetor) 
+* Cap. 07 (Matriz) 
+* Cap. 08 (Sub-rotina)
 
   ## Turma
   - P3 de informática
