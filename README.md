@@ -1,5 +1,5 @@
-# Atividades de Java POO 2023.2
-* <h3>AtividadesDeJavaPOO<h3>
+# DisciplinaPOO2023.2
+* <h3>Atividades de POO java<h3>
 <br>
 <br>
 
