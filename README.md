@@ -21,4 +21,8 @@
   - P3 de informática
 
   ## Professor
-  - Roger Moura Sarmento 
+  - Roger Moura Sarmento
+
+  ## Dupla
+  - Carlos Dante
+  - André Luiz
